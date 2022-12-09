@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/brannPortfolio/static/css/main.073c9b0a.css",
+    "main.js": "/brannPortfolio/static/js/main.7589e8ed.js",
+    "static/js/787.81c44fdf.chunk.js": "/brannPortfolio/static/js/787.81c44fdf.chunk.js",
+    "static/media/logo.svg": "/brannPortfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/brannPortfolio/index.html",
+    "main.073c9b0a.css.map": "/brannPortfolio/static/css/main.073c9b0a.css.map",
+    "main.7589e8ed.js.map": "/brannPortfolio/static/js/main.7589e8ed.js.map",
+    "787.81c44fdf.chunk.js.map": "/brannPortfolio/static/js/787.81c44fdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7589e8ed.js"
+  ]
+}
